@@ -53,7 +53,7 @@ This dashboard provides a comprehensive visualization of key performance metrics
 ## 📝 Screenshots / Samples
 
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Preview visuals available in [`exports/Power_BI_Foundever_Final_Report_PDF.pdf`]![![IMG_8700](https://github.com/user-attachments/assets/ee01909c-96db-4018-a7f2-d129c86f41d8)
+Preview visuals available in [`exports/Power BI _BlinkIt Sales Analysis Project.pdf`]![IMG_8700](https://github.com/user-attachments/assets/ee01909c-96db-4018-a7f2-d129c86f41d8)
 
 ---
 
